@@ -10,7 +10,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 | Project Name | Description | Technologies Used | Project Link |
 |--------------|-------------|-------------------|--------------|
-| SecureChat   | A secure messaging app with end-to-end encryption | Python, Flask, Socket.IO, AES | [SecureChat](https://github.com/your-username/securechat) |
+| HTB PenTest Lab   | Gain privilege Escalation | Linux | HTB Nibbles |
 | CyberDefense | A cybersecurity simulation game for educational purposes | Unity, C#, SQL | [CyberDefense](https://github.com/your-username/cyberdefense) |
 | NetProbe     | Network monitoring tool for detecting anomalies | Java, Wireshark, Machine Learning | [NetProbe](https://github.com/your-username/netprobe) |
 
