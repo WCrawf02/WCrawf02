@@ -10,7 +10,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 | Project Name | Description | Technologies Used | Project Link |
 |--------------|-------------|-------------------|--------------|
-| HTB PenTest Lab   | Gain privilege Escalation | Linux | HTB Nibbles |
+| HTB PenTest Lab   | Gain Privilege Escalation | Linux | [HTB Nibbles](https://github.com/WCrawf02/HTB-Nibbles)|
 | CyberDefense | A cybersecurity simulation game for educational purposes | Unity, C#, SQL | [CyberDefense](https://github.com/your-username/cyberdefense) |
 | NetProbe     | Network monitoring tool for detecting anomalies | Java, Wireshark, Machine Learning | [NetProbe](https://github.com/your-username/netprobe) |
 
