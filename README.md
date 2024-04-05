@@ -21,7 +21,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Web Development| HTML5, CSS3, JavaScript (ES6+), React, Node.js |
 | Networking     | TCP/IP, DNS, VPNs, Firewalls, Wireshark        |
 | Cybersecurity  | Ethical Hacking, Penetration Testing, SIEM      |
-| Databases      | MySQL, School Project Link              |
+| Databases      | MySQL, <a href="https://github.com/WCrawf02/Database-project">School Project Link</a>|              |
 | Operating Systems | Linux (Ubuntu, CentOS), Windows, macOS        |
 | Tools          | Git, Docker, Wireshark, Burp Suite, Metasploit |
 
