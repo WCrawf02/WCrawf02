@@ -17,8 +17,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Skills
 | Category       | Skills                                          |
 |----------------|-------------------------------------------------|
-| Programming    | Python, Java, C/C++, JavaScript, SQL           |
-| Web Development| HTML5, CSS3, JavaScript (ES6+), React, Node.js |
+| Programming    | Python           |
 | Networking     | TCP/IP, DNS, VPNs, Firewalls, Wireshark        |
 | Cybersecurity  | Ethical Hacking, Penetration Testing, SIEM      |
 | Databases      | MySQL, <a href="https://github.com/WCrawf02/Database-project">School Project Link</a>|              |
