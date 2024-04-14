@@ -17,7 +17,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Skills
 | Category       | Skills                                          |
 |----------------|-------------------------------------------------|
-| Programming    | Python           |
+| Programming    | [Python](https://github.com/WCrawf02/Python-Monthly-budget-project-)|
 | Networking     | TCP/IP, DNS, VPNs, Firewalls, Wireshark        |
 | Cybersecurity  | Ethical Hacking, Penetration Testing, SIEM      |
 | Databases      | MySQL, <a href="https://github.com/WCrawf02/Database-project">School Project Link</a>|              |
