@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |--------------|-------------|-------------------|--------------|
 | HTB PenTest Lab   | Gain Privilege Escalation | Linux | [HTB Nibbles](https://github.com/WCrawf02/HTB-Nibbles)|
 | CyberDefense | A cybersecurity simulation game for educational purposes | Unity, C#, SQL | [CyberDefense](https://github.com/your-username/cyberdefense) |
-| NMap scanning     | Network monitoring tool for detecting anomalies | Python, Wireshark, Machine Learning | [NMap](https://github.com/WCrawf02/Security-Toolbox/blob/main/nmap.py)|
+| NMap scanning     | Network monitoring tool for reconnaissance| Python, Wireshark, Machine Learning | [NMap](https://github.com/WCrawf02/Security-Toolbox/blob/main/nmap.py)|
 
 ## Skills
 | Category       | Skills                                          |
