@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm William Crawford</h1>
 <h3 align="center">Passionate cybersecurity student</h3>
 
-Current Cybersecurity Bachelor's degree student looking to leverage my course work and home practice labs to obtain employment within the cybersecurity field.  Looking to create meaningful contributions to the security industry by building a diverse portfolio to showcase my knowledge in areas such as, threat detection, network security, and risk assessment.  
+🏫 🥇Current Cybersecurity Bachelor's degree student looking to leverage my course work and home practice labs to obtain employment within the cybersecurity field.  Looking to create meaningful contributions to the security industry by building a diverse portfolio to showcase my knowledge in areas such as, threat detection, network security, and risk assessment.  
 ## Objective
 
 Leveraging my cybersecurity education and project experience to contribute innovative solutions to real-world security challenges. Passionate about continuous learning and collaboration, I aim to build a robust portfolio showcasing my expertise and dedication to the field of cybersecurity.
@@ -17,12 +17,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Skills
 | Category       | Skills                                          |
 |----------------|-------------------------------------------------|
-| Programming    | [Python](https://github.com/WCrawf02/Python-Monthly-budget-project-)|
-| Networking     | TCP/IP, DNS, VPNs, Firewalls, Wireshark        |
-| Cybersecurity  | Ethical Hacking, Penetration Testing, SIEM      |
-| Databases      | MySQL, <a href="https://github.com/WCrawf02/Database-project">School Project Link</a>|              |
-| Operating Systems | Linux (Ubuntu, CentOS), Windows, macOS        |
-| Tools          | Git, Docker, Wireshark, Burp Suite, Metasploit |
+| Programming    | [Python](https://github.com/WCrawf02/Python-Monthly-budget-project-) &#x1F40D;|
+| Networking     | TCP/IP, DNS, VPNs, Firewalls, Wireshark 🖇️       |
+| Cybersecurity  | Ethical Hacking 🔐, Penetration Testing, SIEM 🛑      |
+| Databases 💾     | MySQL, <a href="https://github.com/WCrawf02/Database-project">School Project Link</a>|              |
+| Operating Systems | Linux (Ubuntu, CentOS) &#x1F427; Windows, macOS 🖥️        |
+| Tools          | Git, Docker, Wireshark, Burp Suite, Metasploit 🧨 |
 
 
 
