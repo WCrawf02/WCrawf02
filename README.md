@@ -2,9 +2,9 @@
 <h3 align="center">Passionate Cybersecurity Professional</h3>
 
 🏫 🥇Current Cybersecurity Bachelor's degree student looking to leverage my course work and home practice labs to obtain employment within the cybersecurity field.  Looking to create meaningful contributions to the security industry by building a diverse portfolio to showcase my knowledge in areas such as, threat detection, network security, and risk assessment.  
-## Objective
+## What I Do
 
-Leveraging my comprehensive cybersecurity education and hands-on project experience to deliver innovative solutions for complex security challenges. With a strong commitment to continuous learning and collaborative problem-solving, I aim to build a robust portfolio that underscores my expertise and dedication to advancing the field of cybersecurity. My background in computer science has fueled a deep passion for cybersecurity, and I am enthusiastic about transitioning into roles that involve critical security operations and analysis.
+- **Security Analysis & Threat Hunting**: Identifying and mitigating vulnerabiltiies before they become threats.
 
 ## Projects
 | Project Name | Description | Technologies Used | Project Link |
