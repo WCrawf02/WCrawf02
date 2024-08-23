@@ -4,10 +4,10 @@
 🏫 🥇Current Cybersecurity Bachelor's degree student looking to leverage my course work and home practice labs to obtain employment within the cybersecurity field.  Looking to create meaningful contributions to the security industry by building a diverse portfolio to showcase my knowledge in areas such as, threat detection, network security, and risk assessment.  
 ## What I Do 🥸💻
 
-- **Security Analysis & Threat Hunting**: Identifying and mitigating vulnerabiltiies before they become threats.
-- **Incident Response**: Crafting effective response plans and managing security incidents with precision.
-- **Penetration Testing**: Uncovering weaknesses through riigorous testing and ethical hacking.
-- **Governance, Risk & Compliance (GRC)**: Ensuring adherence to security standards and managing risks to protect organizational assets.
+- **Security Analysis & Threat Hunting🔒**: Identifying and mitigating vulnerabiltiies before they become threats.
+- **Incident Response🔬**: Crafting effective response plans and managing security incidents with precision.
+- **Penetration Testing🖥️**: Uncovering weaknesses through riigorous testing and ethical hacking.
+- **Governance, Risk & Compliance (GRC)⚖️**: Ensuring adherence to security standards and managing risks to protect organizational assets.
 - **Project Showcase**: Explore 🧭 my Github for insights into my latest cybersecurity projects, from malware analysis to SIEM implementations.
 
 ## Certifications 📝
