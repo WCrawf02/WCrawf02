@@ -5,6 +5,10 @@
 ## What I Do 🥸💻
 
 - **Security Analysis & Threat Hunting**: Identifying and mitigating vulnerabiltiies before they become threats.
+- **Incident Response**: Crafting effective response plans and managing security incidents with precision.
+- **Penetration Testing**: Uncovering weaknesses through riigorous testing and ethical hacking.
+- **Governance, Risk & Compliance (GRC)**: Ensuring adherence to security standards and managing risks to protect organizational assets.
+- **Project Showcase**: Explore 🧭 my Github for insights into my latest cybersecurity projects, from malware analysis to SIEM implementations.
 
 ## Projects
 | Project Name | Description | Technologies Used | Project Link |
