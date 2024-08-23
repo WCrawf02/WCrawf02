@@ -10,6 +10,8 @@
 - **Governance, Risk & Compliance (GRC)**: Ensuring adherence to security standards and managing risks to protect organizational assets.
 - **Project Showcase**: Explore 🧭 my Github for insights into my latest cybersecurity projects, from malware analysis to SIEM implementations.
 
+## Certifications 📝
+![CompTIA Security+]
 ## Projects
 | Project Name | Description | Technologies Used | Project Link |
 |--------------|-------------|-------------------|--------------|
