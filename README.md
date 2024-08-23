@@ -11,7 +11,8 @@
 - **Project Showcase**: Explore 🧭 my Github for insights into my latest cybersecurity projects, from malware analysis to SIEM implementations.
 
 ## Certifications 📝
-![CompTIA Security+]
+- **CompTIA Security+**
+- **CompTIA PenTest+ in progess**
 ## Projects
 | Project Name | Description | Technologies Used | Project Link |
 |--------------|-------------|-------------------|--------------|
