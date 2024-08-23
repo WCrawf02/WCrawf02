@@ -17,7 +17,7 @@
 | Vulnerability Scanner | A vulnerability scanner project - educational purposes | Python, InfoSec Fundamentals | [Vulnerability Scanner](https://github.com/WCrawf02/Vulnerability-Scanner-Project) |
 | NMap scanning     | Network monitoring tool for reconnaissance| Python, Wireshark, Machine Learning | [NMap](https://github.com/WCrawf02/Security-Toolbox/blob/main/nmap.py)|
 
-## Skills
+## 💎 Tech Stack
 | Category       | Skills                                          |
 |----------------|-------------------------------------------------|
 | Programming    | [Python](https://github.com/WCrawf02/Python-Monthly-budget-project-) &#x1F40D;|
