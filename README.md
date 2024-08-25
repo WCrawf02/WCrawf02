@@ -19,6 +19,7 @@
 | HTB PenTest Lab   | Gain Privilege Escalation | Linux | [HTB Nibbles](https://github.com/WCrawf02/HTB-Nibbles)|
 | Vulnerability Scanner | A vulnerability scanner project - educational purposes | Python, InfoSec Fundamentals | [Vulnerability Scanner](https://github.com/WCrawf02/Vulnerability-Scanner-Project) |
 | Threat Hunting/Network Analysis| Network monitoring tool for reconnaissance| NMap, Wireshark, Linux distrobutions | [NMap](https://github.com/WCrawf02/Security-Toolbox/blob/main/nmap.py)|
+| Governance & Regulation - TryHackMe module | Explore policies and frameworks vital for regulating cyber security in an organization |
 
 ## 💎 Tech Stack
 | Category       | Skills                                          |
