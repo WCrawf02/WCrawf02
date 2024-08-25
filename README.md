@@ -18,7 +18,7 @@
 |--------------|-------------|-------------------|--------------|
 | HTB PenTest Lab   | Gain Privilege Escalation | Linux | [HTB Nibbles](https://github.com/WCrawf02/HTB-Nibbles)|
 | Vulnerability Scanner | A vulnerability scanner project - educational purposes | Python, InfoSec Fundamentals | [Vulnerability Scanner](https://github.com/WCrawf02/Vulnerability-Scanner-Project) |
-| NMap scanning     | Network monitoring tool for reconnaissance| Python, Wireshark, Machine Learning | [NMap](https://github.com/WCrawf02/Security-Toolbox/blob/main/nmap.py)|
+| Threat Hunting/Network Analysis| Network monitoring tool for reconnaissance| NMap, Wireshark, Linux distrobutions | [NMap](https://github.com/WCrawf02/Security-Toolbox/blob/main/nmap.py)|
 
 ## 💎 Tech Stack
 | Category       | Skills                                          |
