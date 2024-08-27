@@ -21,6 +21,7 @@
 | Threat Hunting/Network Analysis| Network monitoring tool for reconnaissance| NMap, Wireshark, Linux distrobutions | [NMap](https://github.com/WCrawf02/Security-Toolbox/blob/main/nmap.py)|
 | Governance & Regulation - TryHackMe module | Explore policies and frameworks vital for regulating cyber security in an organization | Understanding Governance, Risk Management, & Compliance (GRC) framework |[GRC](https://github.com/WCrawf02/GRC/blob/main/README.md)
 | Wireshark | Basics of Wireshark | VM |[Wireshark module](https://github.com/WCrawf02/Wireshark-Basics)|
+| Network Security | Module completion | Nmap, Telnet, Hydra, Ports & Protocols| [Net Sec Challenge](https://github.com/WCrawf02/Network-Security-Challenge/tree/main)
 ## 💎 Tech Stack
 | Category       | Skills                                          |
 |----------------|-------------------------------------------------|
