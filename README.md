@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm William Crawford</h1>
-<h3 align="center">Passionate Cybersecurity Professional</h3>
+<h1 align="center">Welcome, I'm William Crawford</h1>
+<h3 align="center">Network Engineer | Linux | Cybersecurity</h3>
 
-🏫 🥇Current Cybersecurity Bachelor's degree student looking to leverage my course work and home practice labs to obtain employment within the cybersecurity field.  Looking to create meaningful contributions to the security industry by building a diverse portfolio to showcase my knowledge in areas such as, threat detection, network security, and risk assessment.  
+<p align="center">
+  Building secure networks. Engineering Linux systems. Automating everything I can.
+</p>
 ## What I Do 🥸💻
 
 - **Security Analysis & Threat Hunting🔒**: Identifying and mitigating vulnerabiltiies before they become threats.
