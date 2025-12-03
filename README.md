@@ -2,19 +2,21 @@
 <h3 align="center">Network Engineer | Linux | Cybersecurity</h3>
 
 <p align="center">
-  Building secure networks. Engineering Linux systems. Automating everything I can.
+  Welcome to my Github. I focus on building practical skills in cybersecurity and computer networking through hands-on labs, technical write-ups, and real-world simulations.
 </p>
-## What I Do 🥸💻
+##My work includes:
 
-- **Security Analysis & Threat Hunting🔒**: Identifying and mitigating vulnerabiltiies before they become threats.
-- **Incident Response🔬**: Crafting effective response plans and managing security incidents with precision.
-- **Penetration Testing🖥️**: Uncovering weaknesses through rigorous testing and ethical hacking.
-- **Governance, Risk & Compliance (GRC)⚖️**: Ensuring adherence to security standards and managing risks to protect organizational assets.
-- **Project Showcase**: Explore 🧭 my Github for insights into my latest cybersecurity projects, from malware analysis to SIEM implementations.
+- **Network engineering labs** 
+- **Offensive security practice**
+- **Blue-team analysis and detection engineering**
+- **Linux administration, hardening, and automation**
+- **Python/Ansible scripts for security and network tooling** 
 
 ## Certifications 📝
+- **Cisco Certified Network Associate**
+- **CompTIA Network+**
 - **CompTIA Security+**
-- **CompTIA PenTest+ in progess**
+- **CompTIA PenTest**
 ## Projects
 | Project Name | Description | Technologies Used | Project Link |
 |--------------|-------------|-------------------|--------------|
