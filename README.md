@@ -35,7 +35,7 @@
 | Languages     | Python · Bash              |
 | Other | Docker · Git · GitHub Actions         |
 
-## 🎯 Current Focus##
+## 🎯 Current Focus
 
 
 <h3 align="left">Connect with me:</h3>
