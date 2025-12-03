@@ -18,16 +18,7 @@
 - **CompTIA Network+**
 - **CompTIA Security+**
 - **CompTIA PenTest**
-## Projects
-| Project Name | Description | Technologies Used | Project Link |
-|--------------|-------------|-------------------|--------------|
-| HTB PenTest Lab   | Gain Privilege Escalation | Linux | [HTB Nibbles](https://github.com/WCrawf02/HTB-Nibbles)|
-| Vulnerability Scanner | A vulnerability scanner project - educational purposes | Python, InfoSec Fundamentals | [Vulnerability Scanner](https://github.com/WCrawf02/Vulnerability-Scanner-Project) |
-| Threat Hunting/Network Analysis| Network monitoring tool for reconnaissance| NMap, Wireshark, Linux distrobutions | [NMap](https://github.com/WCrawf02/Security-Toolbox/blob/main/nmap.py)|
-| Governance & Regulation - TryHackMe module | Explore policies and frameworks vital for regulating cyber security in an organization | Understanding Governance, Risk Management, & Compliance (GRC) framework |[GRC](https://github.com/WCrawf02/GRC/blob/main/README.md)
-| Wireshark | Basics of Wireshark | VM |[Wireshark module](https://github.com/WCrawf02/Wireshark-Basics)|
-| Network Security | Module completion | Nmap, Telnet, Hydra, Ports & Protocols| [Net Sec Challenge](https://github.com/WCrawf02/Network-Security-Challenge/tree/main)
-| Fowsniff Capture the Flag | Walkthrough - CTF challenge | Linux, Nmap, Hydra, Metasploit, Python, Netcat, SSH | [Fowsniff](https://github.com/WCrawf02/Fowsniff-CTF/blob/main/README.md)
+
 
 ## 💎 Tech Stack
 | Category       | Skills                                          |
