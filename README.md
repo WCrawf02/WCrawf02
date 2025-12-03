@@ -18,10 +18,13 @@
 **🔹 Python/Ansible scripts for security and network tooling** 
 
 ## Certifications 📝
-- **Cisco Certified Network Associate**
-- **CompTIA Network+**
-- **CompTIA Security+**
-- **CompTIA PenTest**
+**🔸 Cisco Certified Network Associate**
+
+**🔸 CompTIA Network+**
+  
+**🔸 CompTIA Security+**
+  
+**🔸 CompTIA PenTest**
 
 ## 💎 Tech Stack
 | Category       | Skills                                          |
