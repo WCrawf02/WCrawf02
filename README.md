@@ -36,6 +36,11 @@
 | Other | Docker · Git · GitHub Actions         |
 
 ## 🎯 Current Focus
+- CCNP-level networking skills
+- BLue-team methodologies
+- Vulnerabilitiy analysis & detection engineering
+- Network automation fundamentals
+- Structured lab documentation 
 
 
 <h3 align="left">Connect with me:</h3>
