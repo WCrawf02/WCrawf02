@@ -26,12 +26,12 @@
 ## 💎 Tech Stack
 | Category       | Skills                                          |
 |----------------|-------------------------------------------------|
-| Networking    | Cisco IOS · GNS3 · EVE-NG · Packet Tracer|
-| Security     | TCP/IP, DNS, VPNs, Firewalls, Wireshark 🖇️       |
-| Cybersecurity  | Ethical Hacking 🔐, Penetration Testing, SIEM 🛑      |
-| Databases 💾     | MySQL, <a href="https://github.com/WCrawf02/Database-project">School Project Link</a>|              |
-| Operating Systems | Linux (Ubuntu, CentOS) &#x1F427; Windows, macOS 🖥️        |
-| Tools          | Git, Docker, Wireshark, Burp Suite, Metasploit 🧨 |
+| Networking    | Cisco IOS · GNS3 · EVE-NG · Packet Tracer  |
+| Security     | Wireshark · BurpSuite · SIEM technologies   |
+| Systems  | Linux (Ubuntu / Kali) · Windows Server      |
+| Languages     | Python · Bash              |
+| Other | Docker · Git · GitHub Actions         |
+
 
 
 
