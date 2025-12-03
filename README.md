@@ -48,4 +48,4 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/williamcrawford813/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/williamcrawford813/" height="30" width="40" /></a>
 </p>
 
-Always 
+*** 🤾🏾‍♂️ Always learning. Always building. If you're interested in networking, security or tech in general - let's connect. ***
