@@ -7,11 +7,11 @@
 
 ## 🚀 What I'm Working On:
 
-**🔹 Network engineering labs**
-- **Offensive security practice**
-- **Blue-team analysis and detection engineering**
-- **Linux administration, hardening, and automation**
-- **Python/Ansible scripts for security and network tooling** 
+###🔹 Network engineering labs**
+**🔹 Offensive security practice**
+**🔹 Blue-team analysis and detection engineering**
+**🔹 Linux administration, hardening, and automation**
+**🔹 Python/Ansible scripts for security and network tooling** 
 
 ## Certifications 📝
 - **Cisco Certified Network Associate**
