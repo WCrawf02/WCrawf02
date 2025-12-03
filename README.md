@@ -4,7 +4,7 @@
 <p align="center">
   Welcome to my Github. I focus on building practical skills in cybersecurity and computer networking through hands-on labs, technical write-ups, and real-world simulations.
 </p>
-##My work includes:
+##My work includes:##
 
 - **Network engineering labs** 
 - **Offensive security practice**
