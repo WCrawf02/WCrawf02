@@ -27,7 +27,7 @@
 | Category       | Skills                                          |
 |----------------|-------------------------------------------------|
 | Networking    | Cisco IOS · GNS3 · EVE-NG · Packet Tracer|
-| Networking     | TCP/IP, DNS, VPNs, Firewalls, Wireshark 🖇️       |
+| Security     | TCP/IP, DNS, VPNs, Firewalls, Wireshark 🖇️       |
 | Cybersecurity  | Ethical Hacking 🔐, Penetration Testing, SIEM 🛑      |
 | Databases 💾     | MySQL, <a href="https://github.com/WCrawf02/Database-project">School Project Link</a>|              |
 | Operating Systems | Linux (Ubuntu, CentOS) &#x1F427; Windows, macOS 🖥️        |
