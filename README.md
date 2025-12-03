@@ -8,7 +8,7 @@
 ## 🚀 What I'm Working On:
 
 - **Network engineering labs**
-  - 
+fdfhjkwehkjwer
 - **Offensive security practice**
 - **Blue-team analysis and detection engineering**
 - **Linux administration, hardening, and automation**
