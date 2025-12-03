@@ -8,7 +8,7 @@
 ## 🚀 What I'm Working On:
 
 **🔹 Network engineering labs**
-- yes
+
 **🔹 Offensive security practice**
 
 **🔹 Blue-team analysis and detection engineering**
@@ -26,7 +26,7 @@
 ## 💎 Tech Stack
 | Category       | Skills                                          |
 |----------------|-------------------------------------------------|
-| Programming    | [Python](https://github.com/WCrawf02/Python-Monthly-budget-project-) &#x1F40D;|
+| Networking    | Cisco IOS · GNS3 · EVE-NG · Packet Tracer|
 | Networking     | TCP/IP, DNS, VPNs, Firewalls, Wireshark 🖇️       |
 | Cybersecurity  | Ethical Hacking 🔐, Penetration Testing, SIEM 🛑      |
 | Databases 💾     | MySQL, <a href="https://github.com/WCrawf02/Database-project">School Project Link</a>|              |
