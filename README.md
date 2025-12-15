@@ -11,8 +11,6 @@
 
 **🔹 Offensive security practice**
 
-**🔹 Blue-team analysis and detection engineering**
-
 **🔹 Linux administration, hardening, and automation**
 
 **🔹 Python/Ansible scripts for security and network tooling** 
@@ -37,7 +35,6 @@
 
 ## 🎯 Current Focus
 - CCNP-level networking skills
-- BLue-team methodologies
 - Vulnerabilitiy analysis & detection engineering
 - Network automation fundamentals
 - Structured lab documentation 
