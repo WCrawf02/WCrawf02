@@ -47,8 +47,9 @@
 
 ## 🎯 Current Focus
 - CCNP-level networking skills
-- Vulnerabilitiy analysis & detection engineering
-- Network automation fundamentals
+- Network-centric attack path analysis
+- Detection-aware security testing
+- Incident response fundamentals
 - Structured lab documentation 
 
 
@@ -57,4 +58,4 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/williamcrawford813/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/williamcrawford813/" height="30" width="40" /></a>
 </p>
 
-***🤾🏾‍♂️ Always learning. Always building. If you're interested in networking, security or tech in general - let's connect.***
+***🤾🏾‍♂️ Always learning. Always building. Focused on mastering systems deeply - not just tools. If you're interested in networking, security or tech in general - let's connect.***
