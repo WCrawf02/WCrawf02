@@ -1,8 +1,8 @@
 <h1 align="center">Welcome, I'm William Crawford</h1>
-<h3 align="center">Network Engineer | Linux | Cybersecurity</h3>
+<h3 align="center">CCNP Studies | SANS CyberAcademy Scholar | Attack-Informed Security</h3>
 
 <p align="center">
-  Welcome to my Github. I focus on building practical skills in cybersecurity and computer networking through hands-on labs, technical write-ups, and real-world simulations.
+  Welcome to my Github. I focus on understanding how enterprise networks are designed, how attackers move through them, and how security controld succeed or fail in real-world environments.
 </p>
 
 ## 🚀 What I'm Working On:
