@@ -34,6 +34,8 @@
   
 **🔸 CompTIA PenTest**
 
+**🔸 (Upcoming: GIAC, GSEC, GCIH via SANS CyberAcademmy)**
+
 ## 💎 Tech Stack
 | Category       | Skills                                          |
 |----------------|-------------------------------------------------|
