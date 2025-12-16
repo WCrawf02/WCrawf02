@@ -3,7 +3,7 @@
 
 <p align="center">
   Welcome to my Github. I focus on understanding how enterprise networks are designed, how attackers move through them, and how security controld succeed or fail in real-world environments.
-  
+<p align="center">  
   My work emphasizes **network security, attack path analysis, and detection-aware offensive security**, built through hands-on labs, simulations, and structured technical documentation.
 </p>
 
