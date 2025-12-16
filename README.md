@@ -11,13 +11,19 @@
 ## 🩹🔬 What I'm Working On:
 
 **🔹 Enterprise network security labs**
-  - Segmentation, routing, ACLs, firewalls, VPNs
+    - Segmentation, routing, ACLs, firewalls, VPNs
 
-**🔹 Offensive security practice**
+**🔹 Attack path & lateral movement analysis**
+    - How misconfigurations enable compromise
 
-**🔹 Linux administration, hardening, and automation**
+**🔹 Offensive security fundamentals**
+    - Network-driven exploitation and post-compromise movement
 
-**🔹 Python/Ansible scripts for security and network tooling** 
+**🔹 Linux administration & hardening**
+    - Security-focused system configuration
+
+**🔹 Security & network automation** 
+    - Python and Ansible for repeatable security workflows
 
 ## Certifications 📝
 **🔸 Cisco Certified Network Associate**
