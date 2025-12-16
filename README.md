@@ -8,9 +8,10 @@
 
 </p>
 
-## 🚀 What I'm Working On:
+## 🩹🔬 What I'm Working On:
 
-**🔹 Network engineering labs**
+**🔹 Enterprise network security labs**
+  - Segmentation, routing, ACLs, firewalls, VPNs
 
 **🔹 Offensive security practice**
 
